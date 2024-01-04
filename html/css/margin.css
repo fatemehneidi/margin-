@@ -1,0 +1,29 @@
+.one {
+    border: dashed black;
+    background-color: aqua;
+    width: auto;
+    height: 10px;
+    padding: 1rem;
+    margin: 3rem 0 3rem 0;
+}
+
+.para {
+    background-color: blue;
+    width: auto;
+    height: 20px;
+    padding: 1rem;
+    margin: 3rem 0 3rem 0;
+    color:aliceblue;
+    text-align: center;
+    
+
+}
+
+.para1 {
+    background-color: red;
+    width: auto;
+    height: 20px;
+    padding: 1rem;
+    margin: 3rem 0 3rem 0;
+    
+}
